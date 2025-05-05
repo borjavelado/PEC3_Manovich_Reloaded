@@ -67,7 +67,7 @@ Pokémon GO ejemplifica la idea de hibridación en su estado más dinámico: une
 
 Más allá de la ambientación, este título destaca por algo revolucionario: el **sistema Némesis**, una mecánica que genera enemigos únicos con memoria, evolución y relaciones personalizadas con el jugador. Esta combinación de IA, narrativa emergente y mundo abierto convierte al juego en un ejemplo perfecto de lo que Lev Manovich describe como **hibridación de medios**.
 
-### Convergencia de Medios
+1. ### Convergencia de Medios
 
 Sombras de Mordor mezcla múltiples formas culturales y tecnológicas:
 
@@ -79,7 +79,7 @@ Sombras de Mordor mezcla múltiples formas culturales y tecnológicas:
 
 La hibridación ocurre cuando el software junta técnicas y formas de medios que antes estaban separados, y al hacerlo, crea experiencias nuevas y más completas. Aquí no solo se fusionan narrativa y código: también se remezclan literatura, cine, estética y mecánicas jugables.
 
-### Transformación de la experiencia del usuario
+2. ### Transformación de la experiencia del usuario
 
 Cada jugador vive una experiencia propia:
 
@@ -89,7 +89,7 @@ Cada jugador vive una experiencia propia:
 
 La hibridación abre nuevas formas de expresión y cambia la manera en que usamos los medios digitales. En este caso, la historia no se recibe pasivamente: **se construye con cada decisión del jugador**.
 
-### Innovación tecnológica y artística
+3. ### Innovación tecnológica y artística
 
 - **Sistema Némesis**: Fusiona diseño narrativo, IA y código para generar una narrativa dinámica, personalizada y viva.
 - **Software como coautor**: La historia no está escrita por completo: el motor del juego la adapta en tiempo real a las acciones del jugador.
