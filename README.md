@@ -60,7 +60,7 @@ Pokémon GO ejemplifica la idea de hibridación en su estado más dinámico: une
 
 ## Caso 2: La Tierra Media: sombras de Mordor
 
-![Sombras de Mordor](https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/241930/header_spanish.jpg?t=1745613450)
+![Sombras de Mordor](https://alfabetajuega.com/hero/2020/11/La-Tierra-Media-Sombras-de-Mordor.jpg?width=1200&aspect_ratio=16:9)
 
 
 *La Tierra Media: Sombras de Mordor*, desarrollado por Monolith Productions y lanzado en 2014, es un videojuego de acción y rol ambientado en el universo de *El Señor de los Anillos*, creado por J.R.R. Tolkien. La historia del juego se sitúa cronológicamente entre *El hobbit* y *La comunidad del anillo*, y aunque no adapta directamente ningún libro, construye una narrativa original dentro de ese universo.
