@@ -3,7 +3,7 @@
 **Autor**: Borja Velado Barciela
 **Fecha**: 08/09/2025
 
-## Introducción
+## Planteamiento
 
 En el libro *El software toma el mando* (2013), Lev Manovich propone analizar la cultura digital usando lo que podríamos llamar unas “gafas de software”. Esto implica entender que el software no solo produce contenidos, sino que también **estructura la forma en que los experimentamos, los interpretamos y los compartimos**.
 
