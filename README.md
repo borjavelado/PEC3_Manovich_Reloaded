@@ -58,7 +58,7 @@ Pokémon GO ejemplifica la idea de hibridación en su estado más dinámico: une
 
 ---
 
-## Caso 2: La Tierra Media: sombras de Mordor
+## Caso 2: La Tierra Media: Sombras de Mordor
 
 ![Sombras de Mordor](https://alfabetajuega.com/hero/2020/11/La-Tierra-Media-Sombras-de-Mordor.jpg?width=1200&aspect_ratio=16:9)
 
