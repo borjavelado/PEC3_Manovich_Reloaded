@@ -23,7 +23,7 @@ En este trabajo analizaremos dos ejemplos concretos: *Pokémon GO*, que conviert
 
 Tal como plantea Manovich en *El software toma el mando* (2013), la hibridación ocurre cuando las técnicas y formatos de diferentes medios se combinan dentro de una plataforma de software para generar una experiencia nueva y coherente. Pokémon GO encaja perfectamente en esta definición. Vamos a ver cómo.
 
-### Convergencia de Medios
+1. ### Convergencia de Medios
 
 Pokémon GO combina múltiples tecnologías y lógicas de medios:
 
@@ -34,7 +34,7 @@ Pokémon GO combina múltiples tecnologías y lógicas de medios:
 
 Manovich define la hibridación como el proceso en el que el software combinar medios que antes estaban separados. Pokémon GO no solo los une, sino que crea una experiencia nueva en la que ya no distinguimos entre lo real y lo digital.
 
-### Transformación de la experiencia del usuario
+2. ### Transformación de la experiencia del usuario
 
 La verdadera innovación de Pokémon GO está en cómo **cambia la manera de jugar e interactuar con el mundo**:
 
@@ -44,7 +44,7 @@ La verdadera innovación de Pokémon GO está en cómo **cambia la manera de jug
 
 Manovich subraya que el software transforma nuestras formas de actuar, pensar y comunicarnos en la cultura digital. En este caso, transforma cómo nos desplazamos, nos relacionamos y jugamos.
 
-### Innovación tecnológica y cultural
+3. ### Innovación tecnológica y cultural
 
 - **Interfaz híbrida**: Combina visualización de mapas, la cámara de RA y el HUD del videojuego. No estamos solo mirando una app, estamos dentro de ella.
 - **Participación colectiva**: Eventos masivos como los *Días de la comunidad* reúnen a miles de jugadores en el mundo real, lo que refuerza el componente social del software.
