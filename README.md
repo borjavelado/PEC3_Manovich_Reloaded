@@ -5,7 +5,7 @@
 
 ## Planteamiento
 
-En el libro *El software toma el mando* (2013), Lev Manovich propone analizar la cultura digital usando lo que podríamos llamar unas “gafas de software”. Esto implica entender que el software no solo produce contenidos, sino que también **estructura la forma en que los experimentamos, los interpretamos y los compartimos**.
+En el libro *El software toma el mando* (2013), Lev Manovich propone analizar la cultura digital usando lo que podríamos llamar unas “gafas de software”. Esto implica entender que el software no solo produce contenidos, sino que también **cambia la forma en que los experimentamos, los interpretamos y los compartimos**.
 
 Uno de los conceptos clave que desarrolla es el de **hibridación**. Según Manovich, no se trata solo de juntar sin más diferentes medios como texto, imagen o vídeo, sino de integrarlos profundamente hasta crear **experiencias nuevas y únicas**. 
 
@@ -19,11 +19,11 @@ En este trabajo analizaremos dos ejemplos concretos: *Pokémon GO*, que conviert
 ![Pokémon Go – Gameplay](https://sm.ign.com/t/ign_es/screenshot/default/maxresdefault_6498.1280.jpg)
 
 
-*Pokémon GO*, desarrollado por Niantic y lanzado en 2016, es uno de los ejemplos más conocidos y exitosos de hibridación en el mundo de los videojuegos. Este título no solo popularizó la realidad aumentada (RA), sino que también transformó la manera en que los jugadores interactúan con su entorno. Convirtió calles, plazas y parques en un espacio de juego colectivo, en el que el mundo físico y el digital se fusionan.
+*Pokémon GO*, desarrollado por [Niantic Labs](https://nianticlabs.com/?hl=es) y lanzado en 2016, es uno de los ejemplos más conocidos y exitosos de hibridación en el mundo de los videojuegos. Este título no solo popularizó la realidad aumentada (RA), sino que también transformó la manera en que los jugadores interactúan con su entorno. Convirtió calles, plazas y parques en un espacio de juego colectivo, en el que el mundo físico y el digital se fusionan.
 
 Tal como plantea Manovich en *El software toma el mando* (2013), la hibridación ocurre cuando las técnicas y formatos de diferentes medios se combinan dentro de una plataforma de software para generar una experiencia nueva y coherente. Pokémon GO encaja perfectamente en esta definición. Vamos a ver cómo.
 
-1. ### Convergencia de Medios
+1. ### Fusión de Medios
 
 Pokémon GO combina múltiples tecnologías y lógicas de medios:
 
@@ -63,11 +63,11 @@ Pokémon GO ejemplifica la idea de hibridación en su estado más dinámico: une
 ![Sombras de Mordor](https://alfabetajuega.com/hero/2020/11/La-Tierra-Media-Sombras-de-Mordor.jpg?width=1200&aspect_ratio=16:9)
 
 
-*La Tierra Media: Sombras de Mordor*, desarrollado por Monolith Productions y lanzado en 2014, es un videojuego de acción y rol ambientado en el universo de *El Señor de los Anillos*, creado por J.R.R. Tolkien. La historia del juego se sitúa cronológicamente entre *El hobbit* y *La comunidad del anillo*, y aunque no adapta directamente ningún libro, construye una narrativa original dentro de ese universo.
+*La Tierra Media: Sombras de Mordor*, desarrollado por [Monolith Productions](https://www.lith.com/) y lanzado en 2014, es un videojuego de acción y rol ambientado en el universo de *El Señor de los Anillos*, creado por J.R.R. Tolkien. La historia del juego se sitúa cronológicamente entre *El hobbit* y *La comunidad del anillo*, y aunque no adapta directamente ningún libro, construye una narrativa original dentro de ese universo.
 
 Más allá de la ambientación, este título destaca por algo revolucionario: el **sistema Némesis**, una mecánica que genera enemigos únicos con memoria, evolución y relaciones personalizadas con el jugador. Esta combinación de IA, narrativa emergente y mundo abierto convierte al juego en un ejemplo perfecto de lo que Lev Manovich describe como **hibridación de medios**.
 
-1. ### Convergencia de Medios
+1. ### Fusión de Medios
 
 Sombras de Mordor mezcla múltiples formas culturales y tecnológicas:
 
@@ -102,7 +102,10 @@ El universo de *El Señor de los Anillos* funciona aquí como un medio en sí mi
 Sombras de Mordor es un ejemplo brillante de hibridación en múltiples niveles: **narrativo, técnico, visual y cultural**. Une literatura, cine e IA en una sola experiencia que reimagina la Tierra Media, y con ella el universo del Señor de los Anillos, desde la lógica del software.
 
 ---
-
+## Reflexión final
+Siguiendo los planteamientos de Manovich. es importante no confundir la hibridación con otros conceptos como la multimedia o la convergencia.
+En *Pokémon GO*, la realidad aumentada y la capa de geolocalización no actúan como elementos añadidos, sino como un **medio híbrido propio**, que transforma la forma de jugar y desplazarse por el espacio urbano. La hibridación se produce en la **interfaz**, al superponer el entorno digital sobre el físico, y también en la forma en que el juego interpreta y representa la información espacial y contextual en tiempo real, como la posición del jugador, los eventos del entorno o los Pokémon disponibles.
+Lo mismo ocurre con *Sombras de Mordor*. El sistema Némesis genera narrativas dinámicas a partir de las decisiones del jugador, combinando inteligencia artificial, literatura y estética cinematográfica. La hibridación se produce tanto en la estructura narrativa como en la gestión de los datos, creando personajes, relaciones y eventos únicos en cada partida. Aquí, el software no solo muestra una historia: la construye en tiempo real junto al jugador.
 Ambos casos muestran que la hibridación ya no es una excepción, sino la norma en el diseño de experiencias digitales actuales. Si Manovich escribiera hoy una nueva versión de *El software toma el mando*, estos ejemplos ilustrarían perfectamente su tesis.
 
 
