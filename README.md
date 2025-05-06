@@ -103,9 +103,9 @@ Sombras de Mordor es un ejemplo brillante de hibridación en múltiples niveles:
 
 ---
 ## Reflexión final
-Siguiendo los planteamientos de Manovich. es importante no confundir la hibridación con otros conceptos como la multimedia o la convergencia.
+Siguiendo los planteamientos de Manovich. es importante no confundir la hibridación con otros conceptos como la multimedia o la convergencia. La hibridación no consiste solo en combinar elementos visuales o sonoros, sino en integrar técnicas, lógicas y formas de representación propias de distintos medios para crear una experiencia **coherente y nueva.**
 
-En *Pokémon GO*, la realidad aumentada y la capa de geolocalización no actúan como elementos añadidos, sino como un **medio híbrido propio**, que transforma la forma de jugar y desplazarse por el espacio urbano. La hibridación se produce en la **interfaz**, al superponer el entorno digital sobre el físico, y también en la forma en que el juego interpreta y representa la información espacial y contextual en tiempo real, como la posición del jugador, los eventos del entorno o los Pokémon disponibles.
+En *Pokémon GO*, la realidad aumentada y la capa de geolocalización no actúan como elementos añadidos, sino como un **medio híbrido propio**, que transforma la forma de jugar y desplazarse por el espacio urbano. La hibridación se produce en la **interfaz**, al superponer el entorno digital sobre el físico, y también en **la forma en que el juego interpreta y representa la información espacial y contextual en tiempo real**, como la posición del jugador, los eventos del entorno o los Pokémon disponibles.
 
 Lo mismo ocurre con *Sombras de Mordor*. El sistema Némesis genera narrativas dinámicas a partir de las decisiones del jugador, combinando inteligencia artificial, literatura y estética cinematográfica. La hibridación se produce tanto en la estructura narrativa como en la gestión de los datos, creando personajes, relaciones y eventos únicos en cada partida. Aquí, el software no solo muestra una historia: la construye en tiempo real junto al jugador.
 
